@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D90FC61921D377600068F679 /* playSoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D90FC61821D377600068F679 /* playSoundsViewController.swift */; };
 		D96AD3CB21D3452700E3FCC7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96AD3CA21D3452700E3FCC7 /* AppDelegate.swift */; };
 		D96AD3CD21D3452700E3FCC7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96AD3CC21D3452700E3FCC7 /* ViewController.swift */; };
 		D96AD3D021D3452700E3FCC7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D96AD3CE21D3452700E3FCC7 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D90FC61821D377600068F679 /* playSoundsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = playSoundsViewController.swift; sourceTree = "<group>"; };
 		D96AD3C721D3452700E3FCC7 /* pitch_prefect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pitch_prefect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D96AD3CA21D3452700E3FCC7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D96AD3CC21D3452700E3FCC7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				D96AD3D121D3452A00E3FCC7 /* Assets.xcassets */,
 				D96AD3D321D3452A00E3FCC7 /* LaunchScreen.storyboard */,
 				D96AD3D621D3452A00E3FCC7 /* Info.plist */,
+				D90FC61821D377600068F679 /* playSoundsViewController.swift */,
 			);
 			path = pitch_prefect;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D90FC61921D377600068F679 /* playSoundsViewController.swift in Sources */,
 				D96AD3CD21D3452700E3FCC7 /* ViewController.swift in Sources */,
 				D96AD3CB21D3452700E3FCC7 /* AppDelegate.swift in Sources */,
 			);
